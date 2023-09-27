@@ -1,0 +1,117 @@
+[
+    {
+        "goal": {
+            "pose": {
+                "header": {
+                    "frame_id": "docks1"
+                },
+                "pose": {
+                    "position": {
+                        "x": -0.864999,
+                        "y": 4.034999,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -0.9711,
+                        "w": 0.2386
+                    }
+                }
+            },
+            "behavior_tree": ""
+        }
+    },
+    {
+        "goal": {
+            "pose": {
+                "header": {
+                    "frame_id": "docks2"
+                },
+                "pose": {
+                    "position": {
+                        "x": -0.204999,
+                        "y": 1.274999,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -0.7071,
+                        "w": 0.7071
+                    }
+                }
+            },
+            "behavior_tree": ""
+        }
+    },
+    {
+        "goal": {
+            "pose": {
+                "header": {
+                    "frame_id": "docks3"
+                },
+                "pose": {
+                    "position": {
+                        "x": 3.035001,
+                        "y": -1.895001,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0135,
+                        "w": 0.9999
+                    }
+                }
+            },
+            "behavior_tree": ""
+        }
+    },
+    {
+        "goal": {
+            "pose": {
+                "header": {
+                    "frame_id": "docks4"
+                },
+                "pose": {
+                    "position": {
+                        "x": 6.305001,
+                        "y": 1.244999,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.716,
+                        "w": 0.6981
+                    }
+                }
+            },
+            "behavior_tree": ""
+        }
+    },
+    {
+        "goal": {
+            "pose": {
+                "header": {
+                    "frame_id": "docks5"
+                },
+                "pose": {
+                    "position": {
+                        "x": 3.435001,
+                        "y": 4.204999,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.0,
+                        "w": 0.006
+                    }
+                }
+            },
+            "behavior_tree": ""
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "dock_name": "parking dock",
+        "dock_pose_w": 0.0044,
+        "dock_pose_z": -1.0,
+        "dock_x": 8.335001,
+        "dock_y": 3.424999,
+        "dx": 2882,
+        "dx_meter": 28.82,
+        "dy": 1705,
+        "dy_meter": 17.06,
+        "id": 1,
+        "station_link": "parking",
+        "steps": "23"
+    },
+    {
+        "dock_name": "D2",
+        "dock_pose_w": 0.7071,
+        "dock_pose_z": -0.7071,
+        "dock_x": 6.565001,
+        "dock_y": -2.285001,
+        "dx": 2705,
+        "dx_meter": 27.05,
+        "dy": 2277,
+        "dy_meter": 22.77,
+        "id": 2,
+        "station_link": "t2",
+        "steps": "24"
+    },
+    {
+        "dock_name": "D1",
+        "dock_pose_w": 0.0079,
+        "dock_pose_z": -1.0,
+        "dock_x": -3.294999,
+        "dock_y": 2.994999,
+        "dx": 1719,
+        "dx_meter": 17.19,
+        "dy": 1748,
+        "dy_meter": 17.49,
+        "id": 3,
+        "station_link": "t1",
+        "steps": "25"
+    }
+]

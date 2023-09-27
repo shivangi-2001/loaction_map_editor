@@ -1,0 +1,32 @@
+[
+    {
+        "height": "320 mm",
+        "id": 1,
+        "level": "0",
+        "pose_w": 0.0081,
+        "pose_z": -1.0,
+        "station_name": "t1",
+        "station_x": -3.624999,
+        "station_y": 3.014999,
+        "steps": 26,
+        "x": 1686,
+        "x_meter": 16.86,
+        "y": 1746,
+        "y_meter": 17.47
+    },
+    {
+        "height": "320 mm",
+        "id": 2,
+        "level": "0",
+        "pose_w": 0.7161,
+        "pose_z": -0.698,
+        "station_name": "t2",
+        "station_x": 6.595001,
+        "station_y": -2.715001,
+        "steps": 27,
+        "x": 2708,
+        "x_meter": 27.08,
+        "y": 2320,
+        "y_meter": 23.2
+    }
+]

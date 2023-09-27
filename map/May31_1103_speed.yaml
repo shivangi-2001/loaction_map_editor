@@ -1,0 +1,6 @@
+image: May31_1103_speed.pgm
+resolution: 0.005
+origin: [0, 0, 0]
+negate: 0
+occupied_thresh: 1.0
+free_thresh: 0.0

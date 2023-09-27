@@ -20,7 +20,7 @@ other libraries are numpy, random, string, math, sys etc.
 
 ## Getting started
 
-To use the Layout Designer, you will need to have the following installed on your computer and follow the guildines:
+To use the Picture Editor, you will need to have the following installed on your computer and follow the guildines:
 
 ## Guildlines
 
